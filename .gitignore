@@ -1,0 +1,18 @@
+# Credentials and Secrets
+kaggle.json
+
+# Datasets and huge files
+*.zip
+*.tar.gz
+/data/
+/dataset/
+/DDD/
+
+# PyTorch saved models
+*.pth
+*.pt
+
+# Python temporary and cache files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
