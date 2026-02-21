@@ -1,0 +1,17 @@
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Manipulation & Computation
+numpy
+pandas
+
+# Visualization & Metrics
+matplotlib
+seaborn
+scikit-learn
+
+# Utilities
+kaggle
+Pillow
+tqdm
